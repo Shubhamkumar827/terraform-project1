@@ -1,0 +1,3 @@
+variable "first_rg" {
+  
+}

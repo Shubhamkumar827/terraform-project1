@@ -15,7 +15,8 @@ crash.*.log
 # to change depending on the environment.
 *.tfvars
 *.tfvars.json
-
+terraform-project1/.terraform.lock.hcl
+terraform-project1/.terraform/providers/registry.terraform.io/hashicorp/azurerm/4.73.0/windows_amd64
 # Ignore override files as they are usually used to override resources locally and so
 # are not checked in
 override.tf
